@@ -57,3 +57,8 @@ criar link
 tabelas
 
 Num | Nome | Idade
+---|---|---
+1|Gustavo|8,5
+2|Ana|9,7 
+3|Juan|10,0
+
