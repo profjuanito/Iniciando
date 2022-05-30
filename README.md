@@ -81,7 +81,7 @@ Responder (replay)
 
 ---
 
-#Autenticação em 2 pasos
+# Autenticação em 2 pasos
 
 1. Entrar no GitHub
 1. No avatar (canto superior direito) clicar em _setting_
