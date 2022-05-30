@@ -94,4 +94,5 @@ Responder (replay)
    1. leer o QR-cod e ingressar o código 
 1. Depois de ingresar o codigo aparecem uma lista de codigos que tem que ser guardados (download) que ele pedira cquando ingressar
 1. pode adicionar otra key de segurança adicional
-1. Nunca hablititar via facebook
+1. Nunca hablititar via facebook.
+1. Pode usar o mesmo programa para entrar nas contas de google
