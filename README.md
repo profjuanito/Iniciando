@@ -40,3 +40,20 @@ lista de tarefas
 - [] criar uma pag
 - [] finalizar projeto
 - [] publicar
+
+Imagens
+
+Para inserir imagens, é melhor usar diretamente no github (no repositorio / edit readme.md) parte inferior . Arrastrar diretamante a figura (preferencia .png)
+Pode ser tambem 
+
+![nome da figura](link)
+
+
+criar link
+
+[Acesse meu GitHub](link)
+
+
+tabelas
+
+Num | Nome | Idade
