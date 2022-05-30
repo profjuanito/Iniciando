@@ -69,7 +69,12 @@ programa
 ```
 
 Para colocar emojis (_do github do ikatyang_ : repositorio emoji)
-:hand:
+:hand:   :monkey:
+
+
+> koijojasdkljf
+
+Responder (replay)
 
 
 
