@@ -68,5 +68,5 @@ Para colocar código
 programa 
 ```
 
-Para colocar emojis 
+Para colocar emojis ()
 :hand
