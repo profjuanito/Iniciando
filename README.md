@@ -49,12 +49,12 @@ Pode ser tambem
 ![nome da figura](link)
 
 
-criar link
+Criar link
 
 [Acesse meu GitHub](link)
 
 
-tabelas
+Tabelas
 
 Num | Nome | Idade
 ---|---|---
@@ -62,3 +62,11 @@ Num | Nome | Idade
 2|Ana|9,7 
 3|Juan|10,0
 
+Para colocar código
+
+```
+programa 
+```
+
+Para colocar emojis 
+:hand
