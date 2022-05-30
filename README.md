@@ -68,5 +68,8 @@ Para colocar código
 programa 
 ```
 
-Para colocar emojis ()
-:hand
+Para colocar emojis (_do github do ikatyang_ : repositorio emoji)
+:hand:
+
+
+
