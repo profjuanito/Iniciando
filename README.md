@@ -51,7 +51,6 @@ Imagens
 Para inserir imagens, é melhor usar diretamente no github (no repositorio / edit readme.md) parte inferior . Arrastrar diretamante a figura (preferencia .png)
 Pode ser também 
 
-![nome da figura](link)
 ![data-science-concept-illustration-idea-big-data-data-science-concept-113085953](https://user-images.githubusercontent.com/104474639/175043197-44c886ea-44ee-4c92-81af-a6c10345994f.jpg)
 
 
