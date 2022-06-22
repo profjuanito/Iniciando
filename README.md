@@ -32,6 +32,7 @@ listas numeradas
 1. teste 3
 
 lista demarcada
+---
 
 * teste
 * teste
