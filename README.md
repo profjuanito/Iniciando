@@ -1,6 +1,8 @@
 # Iniciando
  Primeiro repositorio criado usando as dicas de Gustavo Guanabara do curso de Git e GitHub do curso em vídeo.
  
+ Pode ser usado este link como boa referencia para o iniciante: https://www.phylos.net/2020-11-06/5040/
+ 
  Alguns comandos para começar a programar na linguagem _Markdown_.
  
  Dica para proteger tu GitHub
